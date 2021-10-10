@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma) -->
 
 <!---
 Chakravarthy7102/Chakravarthy7102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
