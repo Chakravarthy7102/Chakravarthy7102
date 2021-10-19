@@ -9,7 +9,8 @@
 ## Tech Stack
 
 <div align="center"><img width="55" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/codefactor.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/coffeescript.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/glint.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jasmine.svg"/><img width="55" 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg"/><img width="55"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg"/><img width="55" 
 
 <!---
 Chakravarthy7102/Chakravarthy7102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
