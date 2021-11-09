@@ -8,10 +8,10 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma) -->
 ## Tech Stack
 
-<div align="center"><img width="55" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg"/><img width="55"
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg"/><img width="55" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="55" 
+<div align="center"><img width="40" 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg"/><img width="40"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg"/><img width="40" 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="40" 
 
 <!---
 Chakravarthy7102/Chakravarthy7102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
