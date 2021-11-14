@@ -8,7 +8,7 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma) -->
 ## Tech Stack
 
-<div align="center"><img width="40" 
+<div align="center"><img width="40" margin-right="20"
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg"/><img width="40"
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg"/><img width="40" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="40" 
