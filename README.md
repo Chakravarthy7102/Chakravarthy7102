@@ -17,7 +17,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.sv
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="40" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/><img width="40" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/><img width="40" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg"/><img width="40" 
+
 
 <!---
 Chakravarthy7102/Chakravarthy7102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
