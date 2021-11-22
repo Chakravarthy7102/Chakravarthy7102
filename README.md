@@ -1,3 +1,6 @@
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chakravarthy!
+
+
 - 👋 Hi, I’m @Chakravarthy7102
 - 👀 I’m interested in Andriod Development
 - 🌱 I’m currently learning Andriod Development and Data Structures Algorithms
