@@ -4,8 +4,8 @@
 
 - 👀 I’m interested in Andriod Development
 - 🌱 I’m currently learning Andriod Development and Data Structures Algorithms
-- 💞️ I’m looking to collaborate on Anything that related to Java and AD
-- 📫 How to reach me ...
+<!-- - 💞️ I’m looking to collaborate on Anything that related to Java and AD -->
+
 
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma) -->
