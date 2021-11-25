@@ -17,6 +17,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.sv
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="40" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/><img width="40" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/><img width="40" 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/><img width="40"                                                                                       
 
 
 <!---
