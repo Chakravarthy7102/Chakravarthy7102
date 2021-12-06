@@ -1,9 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chakravarthy!
-
-
-
 - 👀 I’m interested in Andriod Development
-- 🌱 I’m currently learning Andriod Development and Data Structures Algorithms
+- 🌱 I’m currently learning Andriod
 <!-- - 💞️ I’m looking to collaborate on Anything that related to Java and AD -->
 
 
@@ -17,7 +14,8 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.sv
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="40" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/><img width="40" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/><img width="40" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/><img width="40"                                                                                       
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/><img width="100" 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/><img width="40"                                                                                       
 
 
 <!---
