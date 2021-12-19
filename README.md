@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chakravarthy!
-- 👀 I’m interested in Andriod Development
-- 🌱 I’m currently learning Andriod
+- I’m a Full Stack Developer
+
 <!-- - 💞️ I’m looking to collaborate on Anything that related to Java and AD -->
 
 
