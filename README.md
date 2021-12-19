@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chakravarthy!
-- I’m a Full Stack Developer
+- I’m a Full Stack Developer and Web3 entusiast!!!
 
 <!-- - 💞️ I’m looking to collaborate on Anything that related to Java and AD -->
 
