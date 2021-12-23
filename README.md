@@ -22,6 +22,6 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"
 Chakravarthy7102/Chakravarthy7102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chakravarthy7102&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chakravarthy7102&langs_count=6&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 
