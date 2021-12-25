@@ -1,5 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chakravarthy!
-- I’m a Full Stack Developer and Web3 entusiast!!!
+
+
+### About Me 🚀
+🎓 I’m a junior pursuing my Bachelors in Information Technology. </br>
+👨‍💻  I am passionate about  Web Dev, DevOps , Web3 Dev & I enjoy learning new things. </br>
 
 <!-- - 💞️ I’m looking to collaborate on Anything that related to Java and AD -->
 
