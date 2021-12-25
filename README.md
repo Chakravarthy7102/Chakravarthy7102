@@ -15,7 +15,8 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/><img width="40" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/><img width="40" 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/><img width="100" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/><img width="40"                                                                                       
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/><img width="30" 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ethereum.svg"/><img width="40"                                                                                       
 
 
 <!---
