@@ -10,17 +10,20 @@
 
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma) -->
-## Tech Stack
+## Tech I'm familiar with 💻
 
-<div align="center"><img width="40" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg"/><img width="40"
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg"/><img width="40" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="40" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/><img width="40" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/><img width="40" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/><img width="100" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/><img width="30" 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ethereum.svg"/><img width="40"                                                                                       
+<div align="center">
+<img width="40" height="40"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg"/><img width="40" height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" /><img width="40" height="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg"/><img width="40" height="40"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg"/><img width="40" height="40"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="40" height="40"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/><img width="40" height="40"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/><img width="40" height="40"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/><img width="100" height="40"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/><img width="30" height="40"
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ethereum.svg"/><img width="40" height="40"    
+                                                                                         
+                                                                                         
 
 
 <!---
