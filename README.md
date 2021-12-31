@@ -5,11 +5,8 @@
 🎓 I’m a junior pursuing my Bachelors in Information Technology. </br>
 👨‍💻  I am passionate about  Web Dev, DevOps , Web3 Dev & I enjoy learning new things. </br>
 
-<!-- - 💞️ I’m looking to collaborate on Anything that related to Java and AD -->
 
 
-
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma) -->
 ## Tech I'm familiar with 💻
 
 <div align="center">
