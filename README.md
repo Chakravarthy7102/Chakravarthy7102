@@ -20,8 +20,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/><img width="30" height="40"
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ethereum.svg"/>    
 
-                                                                                         
-                                                                                         
+                                                                                                                                                                               
 
 <!---
 Chakravarthy7102/Chakravarthy7102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
