@@ -18,7 +18,8 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"/><img width="40" height="40"
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/><img width="100" height="40"
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/><img width="30" height="40"
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ethereum.svg"/>    
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ethereum.svg"/><img width="40" height="40"
+src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png"/>
 
                                                                                                                                                                                
 
