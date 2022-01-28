@@ -34,7 +34,10 @@
     <img alt="Databases" src="https://img.shields.io/badge/Databases-001C29?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img alt="ExpressJS" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img alt="ExpressJS" src="https://img.shields.io/badge/Nginx-00f0f00?style=for-the-badge&logo=nginx&logoColor=white"/>
+   
 <!--     <img alt="Django" src="https://img.shields.io/badge/django-14354C?style=for-the-badge&logo=django&logoColor=white"/> -->
+   
     <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     
 </div>
