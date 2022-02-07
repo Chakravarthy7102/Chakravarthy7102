@@ -40,7 +40,6 @@
 <!--     <img alt="Django" src="https://img.shields.io/badge/django-14354C?style=for-the-badge&logo=django&logoColor=white"/> -->
    
     
-    
 </div>
 </br>
 </br> 
