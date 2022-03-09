@@ -37,7 +37,9 @@
     <img alt="ExpressJS" src="https://img.shields.io/badge/Nginx-00f0f00?style=for-the-badge&logo=nginx&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
    
-<!--     <img alt="Django" src="https://img.shields.io/badge/django-14354C?style=for-the-badge&logo=django&logoColor=white"/> -->
+<!--     <img alt="Django" src="https://img.shields.io/badge/jenkins-14354C?style=for-the-badge&logo=jenkins&logoColor=white"/>
+https://img.shields.io/badge/anisble-14354C?style=for-the-badge&logo=ansible&logoColor=white 
+-->
    
     
 </div>
