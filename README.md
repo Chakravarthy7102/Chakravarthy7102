@@ -9,8 +9,9 @@
 
 ## Tech I'm familiar with 💻
 <div>
-   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+   
    <img alt="MERN" src="https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=react&logoColor=white"/>
+   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-%23723234.svg?&style=for-the-badge&logo=ethereum&logoColor=white"/>
 </div>
 
@@ -26,10 +27,12 @@
 ## Tools And Frameworks 💡
 <div>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+   <img alt="Helm" src="https://img.shields.io/badge/Helm-335061?style=for-the-badge&logo=Helm&logoColor=white"/>
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2E6CE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-212D3C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-3E863D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-5C41E2?style=for-the-badge&logo=terraform&logoColor=white"/>
+   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-335061?style=for-the-badge&logo=Jenkins&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React-5CCFEE?style=for-the-badge&logo=React&logoColor=black"/>
     <img alt="Databases" src="https://img.shields.io/badge/Databases-001C29?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
