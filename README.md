@@ -11,7 +11,7 @@
 <div>
    
    <img alt="MERN" src="https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=react&logoColor=white"/>
-   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+   <img alt="DevOps" src="https://img.shields.io/badge/DevOps-3DDC84?style=for-the-badge&logo=kubernetes&logoColor=white"/>
    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-%23723234.svg?&style=for-the-badge&logo=ethereum&logoColor=white"/>
 </div>
 
@@ -20,8 +20,8 @@
     <img alt="Java" src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=black"/>
     <img alt="Java Script" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Go" src="https://img.shields.io/badge/GoLang%20-%230095D5.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
-    <img alt="Solidity" src="https://img.shields.io/badge/solidity-%23723234.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
+<!--     <img alt="Go" src="https://img.shields.io/badge/GoLang%20-%230095D5.svg?&style=for-the-badge&logo=Go&logoColor=white"/> -->
+<!--     <img alt="Solidity" src="https://img.shields.io/badge/solidity-%23723234.svg?&style=for-the-badge&logo=solidity&logoColor=white"/> -->
 </div>
 
 ## Tools And Frameworks 💡
@@ -31,6 +31,7 @@
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2E6CE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-212D3C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-3E863D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ%20-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>   
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-5C41E2?style=for-the-badge&logo=terraform&logoColor=white"/>
    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-335061?style=for-the-badge&logo=Jenkins&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React-5CCFEE?style=for-the-badge&logo=React&logoColor=black"/>
