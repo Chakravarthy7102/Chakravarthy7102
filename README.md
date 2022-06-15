@@ -11,7 +11,7 @@
 <div>
    
    <img alt="MERN" src="https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=react&logoColor=white"/>
-   <img alt="DevOps" src="https://img.shields.io/badge/DevOps-3DDC84?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+   <img alt="DevOps" src="https://img.shields.io/badge/DevOps-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=black"/>
    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-%23723234.svg?&style=for-the-badge&logo=ethereum&logoColor=white"/>
 </div>
 
