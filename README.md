@@ -28,6 +28,7 @@
 <div>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
    <img alt="Helm" src="https://img.shields.io/badge/Helm-335061?style=for-the-badge&logo=Helm&logoColor=white"/>
+   <img alt="Istio" src="https://img.shields.io/badge/Istio-516baa?style=for-the-badge&logo=Istio&logoColor=white"/>
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2E6CE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-212D3C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-3E863D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
