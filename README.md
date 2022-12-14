@@ -3,7 +3,6 @@
 
 
 ### About Me 🚀
-🎓 I’m a junior pursuing my Bachelors in Information Technology. </br>
 👨‍💻  I am passionate about  Web Dev, DevOps , Web3 Dev & I enjoy learning new things. </br>
 
 
