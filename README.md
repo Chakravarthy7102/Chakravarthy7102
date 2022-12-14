@@ -8,19 +8,20 @@
 
 
 
-## Tech I'm familiar with 💻
+<!-- ## Tech I'm familiar with 💻
 <div>
 
    <img alt="MERN" src="https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=react&logoColor=white"/>
    <img alt="DevOps" src="https://img.shields.io/badge/DevOps-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=black"/>
    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-%23723234.svg?&style=for-the-badge&logo=ethereum&logoColor=white"/>
-</div>
+</div> -->
 
 ## Languages ⚡
 <div>
-    <img alt="Java" src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=black"/>
+    <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Java Script" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=black"/>
 <!--     <img alt="Go" src="https://img.shields.io/badge/GoLang%20-%230095D5.svg?&style=for-the-badge&logo=Go&logoColor=white"/> -->
 <!--     <img alt="Solidity" src="https://img.shields.io/badge/solidity-%23723234.svg?&style=for-the-badge&logo=solidity&logoColor=white"/> -->
 </div>
@@ -29,12 +30,9 @@
 <div>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
    <img alt="Helm" src="https://img.shields.io/badge/Helm-091C84?style=for-the-badge&logo=Helm&logoColor=white"/>
-   <img alt="Istio" src="https://img.shields.io/badge/Istio-516baa?style=for-the-badge&logo=Istio&logoColor=white"/>
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2E6CE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-212D3C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-3E863D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ%20-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>   
-    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-5C41E2?style=for-the-badge&logo=terraform&logoColor=white"/>
    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-335061?style=for-the-badge&logo=Jenkins&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React-5CCFEE?style=for-the-badge&logo=React&logoColor=black"/>
     <img alt="Databases" src="https://img.shields.io/badge/Databases-001C29?style=for-the-badge&logo=mongodb&logoColor=white"/>
