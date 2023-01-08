@@ -18,7 +18,7 @@
 ## Languages ⚡
 <div>
     <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="Java Script" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<!--     <img alt="Java Script" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> -->
     <img alt="Go" src="https://img.shields.io/badge/go%20-%233178C3.svg?&style=for-the-badge&logo=go&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=mocha&logoColor=white"/>
