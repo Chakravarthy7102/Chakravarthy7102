@@ -30,6 +30,7 @@
 <div>
     <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-3E863D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React-5CCFEE?style=for-the-badge&logo=React&logoColor=black"/>
+    <img alt="GraphQL" src="https://img.shields.io/badge/Graphql-E00097?style=for-the-badge&logo=GraphQL&logoColor=black"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
    <img alt="Helm" src="https://img.shields.io/badge/Helm-091C84?style=for-the-badge&logo=Helm&logoColor=white"/>
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2E6CE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
