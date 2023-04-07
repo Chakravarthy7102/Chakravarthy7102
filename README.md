@@ -6,8 +6,6 @@
 <!-- ### About Me 🚀 -->
 <!-- 👨‍💻  I am passionate about  Web Dev, DevOps , Web3 Dev & I enjoy learning new things. </br> -->
 
-
-
 <!-- ## Tech I'm familiar with 💻
 <div>
 
@@ -47,10 +45,6 @@
 https://img.shields.io/badge/anisble-14354C?style=for-the-badge&logo=ansible&logoColor=white 
 -->
 
-
-<!-- </div> -->
-<!-- </br> -->
-<!-- </br>  -->
 
 <!-- <div align="center"> -->
 
