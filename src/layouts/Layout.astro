@@ -21,11 +21,13 @@ const { title } = Astro.props;
       class="text-sm text-zinc-400 absolute flex justify-center p-5 gap-3"
     >
       <a class="hover:text-zinc-200" href="/">About</a>|
-      <a class="hover:text-zinc-200 focus:text-red-300" href="/quotes">Quotes</a
+      <a class="hover:text-zinc-200" href="/quotes">Quotes</a
       >
     </header>
     <slot />
-    <footer class="absolute bottom-0 p-2">
+    <footer
+      class="absolute bottom-0 p-2 flex justify-between text-xs md:min-w-[32rem] min-w-full"
+    >
       <span class="text-xs"
         >&copy; {new Date().getFullYear()} Chaks, Made with <a
           class="underline"
@@ -34,6 +36,18 @@ const { title } = Astro.props;
           target="_blank">Astro</a
         > 🚀
       </span>
+      <div class="text-zinc-400 space-x-1">
+        <a
+          class="underline hover:text-zinc-200"
+          rel="noopener"
+          href="https://github.com/Chakravarthy7102">Github</a
+        >
+        <a
+          class="underline hover:text-zinc-200"
+          href="https://twitter.com/Chakravarthi07"
+          rel="noopener">Twitter</a
+        >
+      </div>
     </footer>
   </body>
   <style is:global>
