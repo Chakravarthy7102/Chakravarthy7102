@@ -21,40 +21,48 @@ const { title } = Astro.props;
       class="text-sm text-zinc-400 absolute flex justify-center p-5 gap-3"
     >
       <a class="hover:text-zinc-200" href="/">About</a>|
-      <a class="hover:text-zinc-200 focus:text-red-300" href="/quotes">Quotes</a>
+      <a class="hover:text-zinc-200 focus:text-red-300" href="/quotes">Quotes</a
+      >
     </header>
     <slot />
+    <footer class="absolute bottom-0 p-2">
+      <span class="text-xs"
+        >&copy; {new Date().getFullYear()} Chaks, Made with <a
+          class="underline"
+          href="https://docs.astro.build/en/getting-started/"
+          rel="noopener"
+          target="_blank">Astro</a
+        > 🚀
+      </span>
+    </footer>
   </body>
+  <style is:global>
+    :root {
+      --accent: 124, 58, 237;
+      --accent-gradient: linear-gradient(
+        45deg,
+        rgb(var(--accent)),
+        #da62c4 30%,
+        white 60%
+      );
+    }
+
+    @font-face {
+      font-family: "CalSans";
+      src: url("/fonts/CalSans-SemiBold.tff") format("tff");
+    }
+
+    * {
+      font-family: "CalSans", "sans";
+    }
+
+    html {
+      background-color: #000;
+    }
+
+    code {
+      font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
+        DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+    }
+  </style>
 </html>
-<style is:global>
-  :root {
-    --accent: 124, 58, 237;
-    --accent-gradient: linear-gradient(
-      45deg,
-      rgb(var(--accent)),
-      #da62c4 30%,
-      white 60%
-    );
-  }
-
-  @font-face {
-    font-family: "CalSans";
-    src: url("/fonts/CalSans-SemiBold.tff") format("tff");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
-
-  * {
-    font-family: "CalSans", "sans";
-  }
-
-  html {
-    background-color: #000;
-  }
-
-  code {
-    font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
-      DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
-  }
-</style>
