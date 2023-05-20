@@ -1,10 +1,31 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout title="Welcome!">
-	<main>
-		<h1 class="text-xl text-center p-5 font-bold">Hello world!</h1>
-	</main>
+<Layout title="DevChaks">
+  <main class="flex h-screen items-center justify-center">
+    <div class="px-5">
+      <div class="my-4">
+        <h1 class="text-4xl font-bold">Chakravarthi Medicharla</h1>
+        <span class="text-xs text-zinc-400">Developer | Programmer</span>
+      </div>
+      <div class="text-sm inline-block max-w-2xl text-ellipsis space-y-3">
+        <h3 class="font-semibold font-mono">Who Am I ?</h3>
+        <p class="font-mono">
+          I am a programmer who enjoys building web applications and opensource
+          software. And I love the command line. I have been programming for two
+          plus years.
+        </p>
+        <p class="font-mono">
+          While I&apos;m most comfortable with Typescript/Javascript and Golang,
+          choice of language or tools has rarely been a hurdle for me while
+          solving a problem. <span
+            class="underline decoration-wavy underline-offset-3 decoration-yellow-200/80"
+            >The best tool is the one that does the job.</span
+          >
+        </p>
+        <p class="font-mono">When not thinking about code, I read books.</p>
+      </div>
+    </div>
+  </main>
 </Layout>
-
